@@ -21,7 +21,7 @@ const PostList = () => {
 
     if (isLoder) {
         return (
-            <div id="loader" >Lodar.....</div>
+            <div id="loader" >loading</div>
         )
     }
     return (
